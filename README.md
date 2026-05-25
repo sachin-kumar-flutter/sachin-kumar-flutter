@@ -51,7 +51,7 @@
 | Project | Tech | Status |
 |--------|------|--------|
 | 🤖 AI Interview Prep App | Flutter, Dart, Firebase, AI APIs | 🔨 In Progress |
-| 🌤️ Weather App | Flutter, Dart, REST API | ✅ Complete |
+| 🌤️ World Time App | Flutter, Dart, REST API | ✅ Complete |
 | 📚 DSA Patterns | C++ | ✅ Active |
 | 🔢 Sorting Visualizer | JavaScript | ✅ Complete |
 

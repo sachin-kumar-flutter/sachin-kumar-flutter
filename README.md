@@ -12,7 +12,7 @@
 - 🔭 Currently building an **AI Interview Prep App** using Flutter + Dart + Firebase
 - 💡 Solved **800+ problems** on LeetCode | Graphs • DP • Trees • Backtracking
 - 🎯 **GATE 2026 AIR 6989** | Top 2.7% out of 259,000+ candidates
-- 🎓 B.Tech CSE 2025 | CGPA 8.7
+- 🎓 B.Tech CSE 2026 | CGPA 8.7
 - 📩 Open to **SDE & Flutter Developer** roles | Available immediately
 
 ---
